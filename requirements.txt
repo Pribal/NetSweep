@@ -1,0 +1,7 @@
+netifaces
+ipaddress
+argparse
+prettytable
+requests
+concurrent
+scapy
